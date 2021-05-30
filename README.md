@@ -6,7 +6,7 @@ La 1ère partie a pour but de permettre aux administrateurs des Maisons des ligu
 
 ![Ajouter_un_client](https://user-images.githubusercontent.com/65156750/120106143-38430380-c15c-11eb-9f0c-8e48a7211d9f.png)
 
-La seconde partie consiste à créer toute la partie gestion. Pour les enregistrements à publier, il nous faudra créer une page contenant un formulaire constitué des 4 champs suivants : Nom, Prénom, Age et adresse mail. Tous les champs sont obligatoires. Dans le cas où l’administrateur ne renseigne pas un champ, il faut afficher un warning.
+La seconde partie consiste à créer toute la partie gestion. Afin d'ajouter un client, il nous faudra créer une page contenant un formulaire constitué des 4 champs suivants : Nom, Prénom, Age et adresse mail. Tous les champs sont obligatoires. Dans le cas où l’administrateur ne renseigne pas un champ, il faut afficher un warning.
 
 Base de données
 
