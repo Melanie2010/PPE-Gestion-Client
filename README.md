@@ -1,4 +1,4 @@
-# PPE-Gestion-Client
+# PPE Gestion Client
 
 Ce PPE a pour but de réaliser une interface admin gestion clients. Il est composé de différentes parties.
 
