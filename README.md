@@ -2,7 +2,7 @@
 
 Ce PPE a pour but de réaliser une interface admin gestion clients. Il est composé de différentes parties.
 
-La 1ère partie a pour but de permettre aux administrateurs des Maisons des ligues, de recenser leurs clients à travers une interface admin. Cela permet d’ajouter un client, modifier sont profil ou le supprimer. 
+La 1ère partie a pour but de permettre aux administrateurs des Maisons des ligues, de recenser leurs clients à travers une interface admin. Cela permet d’ajouter, de modifier ou de supprimer un client. 
 
 ![Ajouter_un_client](https://user-images.githubusercontent.com/65156750/120106143-38430380-c15c-11eb-9f0c-8e48a7211d9f.png)
 
