@@ -16,7 +16,6 @@ La base de données est nommée « client_ligue ». Elle contient une table nomm
 - prenom : varchar
 - age : int
 - email : varchar
-- 
 
 Aspect technique
 
