@@ -16,15 +16,13 @@ $executeIsOk = $pdoStat->execute();
 
 
 if ($executeIsOk) {
-    $message = 'Le client a été supprimer';
+    $message = 'Le client a été supprimé.';
 } 
 else {
     $message = 'Echec de la suppression du client';
 }
 
 ?>
-
-
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -37,10 +35,9 @@ else {
 </head>
 
 <body>
-    <h5>Le client a bien été supprimé. </h5>
 
     <p><?= $message ?></p>
-    <td><a href="index.php">Suivant</a></td>    
+    <td><a href="index.php">Liste des utilisateurs</a></td>    
 
 </body>
 </html>
