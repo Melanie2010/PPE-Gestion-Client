@@ -18,14 +18,13 @@ $pdoStat->bindValue(':email', $_POST['email'], PDO::PARAM_STR);
 $executeIsOk = $pdoStat->execute();
 
 if ($executeIsOk) {
-    $message = 'Le Client a été mis à jour';
+    $message = 'Le Client a été mis à jour.';
 } 
 else {
     $message = 'Echec de la mise à jour du Client';
 }
 
 ?>
-
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -37,9 +36,10 @@ else {
 </head>
 
 <body>
-<br>   <br>   <br>   <br>  <br> <h7>Résultat de la modification</h7></br> </br> </br>  </br> </br> 
-    <p><?= $message ?></p>
-    <td><a href="index.php">Suivant</a></td>     
 
+    <br><br><br><h7>Résultat de la modification</h7></br></br></br> 
+    <p><?= $message ?></p>
+    <td><a href="index.php">Liste des utilisateurs</a></td>     
+    
 </body>
 </html>
